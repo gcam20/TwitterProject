@@ -1,0 +1,279 @@
+[
+    {
+        "friends": [
+            6, 
+            3, 
+            2, 
+            1, 
+            5
+        ], 
+        "id": 0, 
+        "name": "James Crum"
+    }, 
+    {
+        "friends": [
+            2, 
+            4, 
+            0, 
+            3, 
+            6
+        ], 
+        "id": 1, 
+        "name": "George Holcomb"
+    }, 
+    {
+        "friends": [
+            0, 
+            1, 
+            5, 
+            6
+        ], 
+        "id": 2, 
+        "name": "Peter Allen"
+    }, 
+    {
+        "friends": [
+            0, 
+            4, 
+            6, 
+            5, 
+            1
+        ], 
+        "id": 3, 
+        "name": "Robert Sisk"
+    }, 
+    {
+        "friends": [
+            5, 
+            1
+        ], 
+        "id": 4, 
+        "name": "Ryan Coleman"
+    }, 
+    {
+        "friends": [
+            0, 
+            1, 
+            6, 
+            2, 
+            4, 
+            3
+        ], 
+        "id": 5, 
+        "name": "Joann Wilson"
+    }, 
+    {
+        "friends": [
+            1, 
+            5, 
+            4, 
+            2, 
+            3, 
+            0
+        ], 
+        "id": 6, 
+        "name": "Gary Daniels"
+    }, 
+    {
+        "friends": [
+            11, 
+            16, 
+            8, 
+            10
+        ], 
+        "id": 7, 
+        "name": "John Hang"
+    }, 
+    {
+        "friends": [
+            15, 
+            13, 
+            9, 
+            10, 
+            16, 
+            7, 
+            12, 
+            11
+        ], 
+        "id": 8, 
+        "name": "Joseph Green"
+    }, 
+    {
+        "friends": [
+            12, 
+            10, 
+            14, 
+            13, 
+            7, 
+            8, 
+            11, 
+            15
+        ], 
+        "id": 9, 
+        "name": "Samuel Reinking"
+    }, 
+    {
+        "friends": [
+            14, 
+            11, 
+            13, 
+            12, 
+            16
+        ], 
+        "id": 10, 
+        "name": "Darrell Williams"
+    }, 
+    {
+        "friends": [
+            7, 
+            12, 
+            14, 
+            8, 
+            13
+        ], 
+        "id": 11, 
+        "name": "Harold Bell"
+    }, 
+    {
+        "friends": [
+            10, 
+            8, 
+            15, 
+            13, 
+            14, 
+            11, 
+            7, 
+            9, 
+            16
+        ], 
+        "id": 12, 
+        "name": "Victor Gadbaw"
+    }, 
+    {
+        "friends": [
+            8, 
+            11, 
+            16
+        ], 
+        "id": 13, 
+        "name": "Jenifer Mitchell"
+    }, 
+    {
+        "friends": [
+            8, 
+            11
+        ], 
+        "id": 14, 
+        "name": "Lisa Dubois"
+    }, 
+    {
+        "friends": [
+            16, 
+            11, 
+            10, 
+            8, 
+            12
+        ], 
+        "id": 15, 
+        "name": "Michael Reid"
+    }, 
+    {
+        "friends": [
+            12, 
+            14, 
+            10, 
+            8
+        ], 
+        "id": 16, 
+        "name": "Angela Palmer"
+    }, 
+    {
+        "friends": [
+            24, 
+            18, 
+            19, 
+            22, 
+            23, 
+            20, 
+            21
+        ], 
+        "id": 17, 
+        "name": "Aaron Chauncey"
+    }, 
+    {
+        "friends": [
+            19, 
+            20, 
+            22, 
+            23, 
+            24
+        ], 
+        "id": 18, 
+        "name": "David Bennett"
+    }, 
+    {
+        "friends": [
+            23, 
+            24, 
+            21, 
+            17, 
+            18, 
+            22
+        ], 
+        "id": 19, 
+        "name": "John Thompson"
+    }, 
+    {
+        "friends": [
+            23, 
+            22, 
+            24, 
+            19
+        ], 
+        "id": 20, 
+        "name": "Clara Rice"
+    }, 
+    {
+        "friends": [
+            22, 
+            19, 
+            23, 
+            18, 
+            20, 
+            17
+        ], 
+        "id": 21, 
+        "name": "Vickie Batey"
+    }, 
+    {
+        "friends": [
+            19, 
+            20, 
+            23, 
+            24, 
+            17
+        ], 
+        "id": 22, 
+        "name": "Laverne Reynolds"
+    }, 
+    {
+        "friends": [
+            19, 
+            17
+        ], 
+        "id": 23, 
+        "name": "Norma Forti"
+    }, 
+    {
+        "friends": [
+            17, 
+            22, 
+            20, 
+            19, 
+            23, 
+            18
+        ], 
+        "id": 24, 
+        "name": "Cynthia Pruitt"
+    }
+]

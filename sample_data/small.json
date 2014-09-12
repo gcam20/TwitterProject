@@ -1,0 +1,81 @@
+[
+    {
+        "friends": [
+            2, 
+            1, 
+            4, 
+            3
+        ], 
+        "id": 0, 
+        "name": "Lamont Oliver"
+    }, 
+    {
+        "friends": [
+            0, 
+            4, 
+            2
+        ], 
+        "id": 1, 
+        "name": "Sharon Faulkner"
+    }, 
+    {
+        "friends": [
+            4, 
+            1
+        ], 
+        "id": 2, 
+        "name": "Ashley Stansbery"
+    }, 
+    {
+        "friends": [
+            0, 
+            1
+        ], 
+        "id": 3, 
+        "name": "Cruz Tucker"
+    }, 
+    {
+        "friends": [
+            0, 
+            1
+        ], 
+        "id": 4, 
+        "name": "Mary Valone"
+    }, 
+    {
+        "friends": [
+            7, 
+            8, 
+            6
+        ], 
+        "id": 5, 
+        "name": "Clarence Oaks"
+    }, 
+    {
+        "friends": [
+            5, 
+            8, 
+            7
+        ], 
+        "id": 6, 
+        "name": "Jessica Brennan"
+    }, 
+    {
+        "friends": [
+            5, 
+            8, 
+            6
+        ], 
+        "id": 7, 
+        "name": "Jeffrey Gralak"
+    }, 
+    {
+        "friends": [
+            5, 
+            6, 
+            7
+        ], 
+        "id": 8, 
+        "name": "Ron Stutzman"
+    }
+]
